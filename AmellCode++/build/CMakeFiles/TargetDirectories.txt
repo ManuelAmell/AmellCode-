@@ -1,0 +1,9 @@
+/home/amell/Documentos/Programming-Exercises/C++/QT-Projects/build/CMakeFiles/AmellIDE.dir
+/home/amell/Documentos/Programming-Exercises/C++/QT-Projects/build/CMakeFiles/edit_cache.dir
+/home/amell/Documentos/Programming-Exercises/C++/QT-Projects/build/CMakeFiles/rebuild_cache.dir
+/home/amell/Documentos/Programming-Exercises/C++/QT-Projects/build/CMakeFiles/list_install_components.dir
+/home/amell/Documentos/Programming-Exercises/C++/QT-Projects/build/CMakeFiles/install.dir
+/home/amell/Documentos/Programming-Exercises/C++/QT-Projects/build/CMakeFiles/install/local.dir
+/home/amell/Documentos/Programming-Exercises/C++/QT-Projects/build/CMakeFiles/install/strip.dir
+/home/amell/Documentos/Programming-Exercises/C++/QT-Projects/build/CMakeFiles/AmellIDE_autogen_timestamp_deps.dir
+/home/amell/Documentos/Programming-Exercises/C++/QT-Projects/build/CMakeFiles/AmellIDE_autogen.dir
