@@ -1,8 +1,12 @@
-# AmellCode++  <img width="1024" height="1024" alt="amell++" src="https://github.com/user-attachments/assets/2642c60e-31ad-400b-8471-10b5258bff20" />
-
+# AmellCode++  
 
 es un entorno de desarrollo integrado (IDE) creado por ManuelAmell, diseñado para ofrecer una experiencia rápida y minimalista al programar, con enfoque en C++ y soporte extendido a otros lenguajes.
-se uso principalmente QT ,C++.
+se uso principalmente Makefile,QT,C,C++,TS.
+
+<img width="1024" height="1024" alt="amell++" src="https://github.com/user-attachments/assets/2642c60e-31ad-400b-8471-10b5258bff20" />
+
+
+
 
 <img width="1110" height="737" alt="image" src="https://github.com/user-attachments/assets/f6bea6a7-c23b-4582-a35e-dec770e4b261" />
 
