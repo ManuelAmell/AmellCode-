@@ -1,6 +1,7 @@
 # AmellCode++
 
 es un entorno de desarrollo integrado (IDE) creado por ManuelAmell, diseñado para ofrecer una experiencia rápida y minimalista al programar, con enfoque en C++ y soporte extendido a otros lenguajes.
+se uso principalmente QT ,C++.
 
 <img width="1110" height="737" alt="image" src="https://github.com/user-attachments/assets/f6bea6a7-c23b-4582-a35e-dec770e4b261" />
 
@@ -11,9 +12,9 @@ es un entorno de desarrollo integrado (IDE) creado por ManuelAmell, diseñado pa
 
 🖥️ Enfoque en C++ con posibilidad de trabajar con otros lenguajes.
 
-⚡ Integración con compiladores estándar (g++, clang, MSVC).//por agregar aun 
+⚡ Integración con compiladores estándar (g++, clang, MSVC).   (por agregar aun) 
 
-🔍 Resaltado de sintaxis y autocompletado básico.
+🔍 Resaltado de sintaxis.
 
 📂 Explorador de proyectos para organizar archivos y carpetas.
 
@@ -24,6 +25,7 @@ es un entorno de desarrollo integrado (IDE) creado por ManuelAmell, diseñado pa
 Clona el repositorio:
 
 git clone https://github.com/ManuelAmell/AmellCode-
+
 cd AmellCode++
 
 
@@ -39,7 +41,6 @@ cd build
 ./Amell-IDE
 
 
-(Reemplaza main.cpp con el archivo principal que quieras compilar)
 
 📚 Documentación
 
